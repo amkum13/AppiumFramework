@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="99053" started-at="2021-05-21T22:29:39 IST" finished-at="2021-05-21T22:31:18 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="99053" started-at="2021-05-21T22:29:39 IST" finished-at="2021-05-21T22:31:18 IST">
+      <class name="practice.AppiumFramework.ApiDemoTest">
+        <test-method status="PASS" signature="apiDemo(java.lang.String)[pri:0, instance:practice.AppiumFramework.ApiDemoTest@4fb64261]" name="apiDemo" duration-ms="50536" started-at="2021-05-21T22:29:39 IST" data-provider="InputData" finished-at="2021-05-21T22:30:29 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hello]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiDemo -->
+        <test-method status="PASS" signature="apiDemo(java.lang.String)[pri:0, instance:practice.AppiumFramework.ApiDemoTest@4fb64261]" name="apiDemo" duration-ms="48371" started-at="2021-05-21T22:30:29 IST" data-provider="InputData" finished-at="2021-05-21T22:31:18 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AB-@$&]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiDemo -->
+      </class> <!-- practice.AppiumFramework.ApiDemoTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
